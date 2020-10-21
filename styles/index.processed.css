@@ -2,6 +2,7 @@
 @import url(https://fonts.googleapis.com/css?family=Audiowide);
 
 body {
+  /**Ajustement et mise en place du gif en background, ainsi que mise en place de la typographie et de la couleur **/
   background: url(https://media.giphy.com/media/3o6Zte45Xj2XakOK8E/giphy.gif);
   background-repeat: no-repeat;
   background-position: center;
