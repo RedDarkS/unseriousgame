@@ -1,0 +1,21 @@
+/** taille des textes **/
+h1{
+    font-size: 18px;
+  }
+h2{
+    font-size: 15px;
+}
+h3{
+    font-size: 12px;
+}
+/** boutons **/
+.btn {
+	font-size:14px;
+}
+/** l'image fait toujours la même largeur **/
+image{
+    margin: 10px;
+    padding: 5px;
+    width: 80%;
+    height: auto;
+  }
